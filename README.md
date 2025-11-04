@@ -183,9 +183,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Florian 
 
-Project Link: [https://github.com/yourusername/db2-sql-examples](https://github.com/yourusername/db2-sql-examples)
+Project Link: [https://github.com/mockchainblaster/db2sql]((https://github.com/mockchainblaster/db2sql))
 
 ## ⭐ Acknowledgments
 
