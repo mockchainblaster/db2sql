@@ -183,6 +183,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
+## 📧 Contact
+
 Florian 
 
 Project Link: [https://github.com/mockchainblaster/db2sql](https://github.com/mockchainblaster/db2sql)
@@ -192,3 +194,6 @@ Project Link: [https://github.com/mockchainblaster/db2sql](https://github.com/mo
 - IBM DB2 Documentation Team
 - DB2 Community Contributors
 - Stack Overflow DB2 Community
+
+
+
