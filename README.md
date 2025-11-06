@@ -183,8 +183,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-## 📧 Contact
-
 Florian 
 
 Project Link: [https://github.com/mockchainblaster/db2sql](https://github.com/mockchainblaster/db2sql)
